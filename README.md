@@ -1,1 +1,1 @@
-For security reasons, projects are not runnuble. Watching only
+For security reasons, projects adoes not have configs so not runnuble
