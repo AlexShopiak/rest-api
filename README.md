@@ -1,1 +1,1 @@
-For security reasons, projects adoes not have configs so not runnuble
+For security reasons, projects does not have configs - so they are not runnuble
